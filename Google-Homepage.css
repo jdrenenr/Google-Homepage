@@ -1,0 +1,67 @@
+body {
+    display: block;
+    
+}
+
+
+.logo {
+   height: 92px;
+   width: 272px;
+   margin-top: 56px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   
+   
+   
+}
+.icons {
+    display: inline-block;
+    box-sizing: border-box;
+  text-align: right;
+  font-size: 13px;
+  height: 40px;
+  widows: 100%;
+}
+
+
+.search {
+    text-align: center;
+    border-radius: 6px;
+}
+
+.appsicon {
+   height: 24px;
+   width: 24px;
+  position: relative;
+  top: 6px;
+   
+}
+
+.app {
+   
+    justify-content: center;
+}
+
+.nav {
+    display: inline;
+    text-align: right;
+    padding-right: 10px;
+    font-family: roborto, Arial, Helvetica, sans-serif;
+    color: black;
+    
+}
+
+.top {
+    text-align: right;
+}
+
+.button {
+    display: inline;
+    background-color: rgb(52, 101, 238);
+    color: white;
+}
+.search-bar {
+    text-align: center;
+    
+}
